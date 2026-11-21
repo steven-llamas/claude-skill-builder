@@ -1,0 +1,66 @@
+[
+  {
+    "query": "make a skill that turns our sprint retro notes into a formatted wiki page every time",
+    "should_trigger": true
+  },
+  {
+    "query": "can you save what we just did as a skill so next time you do the pdf invoice extraction the same way",
+    "should_trigger": true
+  },
+  {
+    "query": "/skill-builder for a code review checklist our team uses on pull requests",
+    "should_trigger": true
+  },
+  {
+    "query": "I keep explaining the same 6-step release process to you. package that up so you remember it",
+    "should_trigger": true
+  },
+  {
+    "query": "build me a SKILL.md for drafting customer apology emails in our tone, with a template",
+    "should_trigger": true
+  },
+  {
+    "query": "scaffold a new skill that wraps our calendar MCP server: find free slots, book, reschedule",
+    "should_trigger": true
+  },
+  {
+    "query": "i want claude to always format meeting notes the same way, decisions first then action items with owners. set that up",
+    "should_trigger": true
+  },
+  {
+    "query": "create a skill for generating weekly status reports from a spreadsheet of tasks",
+    "should_trigger": true
+  },
+  {
+    "query": "my existing pdf-forms skill triggers on everything, run the trigger evals and tune its description",
+    "should_trigger": false
+  },
+  {
+    "query": "benchmark my report-writer skill against the old version and show me the pass rates",
+    "should_trigger": false
+  },
+  {
+    "query": "what skills do I have installed right now?",
+    "should_trigger": false
+  },
+  {
+    "query": "write a python script that renames all the files in this folder to kebab-case",
+    "should_trigger": false
+  },
+  {
+    "query": "explain how skill descriptions decide when a skill loads",
+    "should_trigger": false
+  },
+  {
+    "query": "fix the typo on line 12 of my deploy skill's SKILL.md",
+    "should_trigger": false
+  },
+  {
+    "query": "build a dashboard that shows how often each of my skills was used last month",
+    "should_trigger": false
+  },
+  {
+    "query": "set up a hook so that every time I commit, the tests run first",
+    "should_trigger": false
+  }
+]

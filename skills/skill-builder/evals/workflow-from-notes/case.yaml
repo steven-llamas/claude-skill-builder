@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: workflow-from-notes
+expected_outcome: |
+  A workflow skill in out/ whose steps follow the five notes in order, with the urgent-start branch first, passing validate_skill.py.

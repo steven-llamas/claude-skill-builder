@@ -1,0 +1,17 @@
+{
+  "name": "skill-builder",
+  "owner": {
+    "name": "steven-llamas"
+  },
+  "metadata": {
+    "description": "Marketplace for the skill-builder plugin."
+  },
+  "plugins": [
+    {
+      "name": "skill-builder",
+      "source": "./",
+      "description": "Builds new, validated Claude skills and their test cases from a short interview.",
+      "version": "1.2.0"
+    }
+  ]
+}

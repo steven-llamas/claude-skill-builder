@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: builds-csv-report-skill
+expected_outcome: |
+  A skill folder out/summarizing-sales-csvs/ that passes validate_skill.py, with a trigger-rich description, a step-by-step body, and test cases in evals/.

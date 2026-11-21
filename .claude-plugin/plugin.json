@@ -1,0 +1,10 @@
+{
+  "name": "skill-builder",
+  "version": "1.2.0",
+  "description": "Builds new, validated Claude skills from a short interview: scaffolds from category templates, writes test cases in the claude plugin eval layout, validates, packages, and hands testing off to skill-creator when installed.",
+  "author": {
+    "name": "steven-llamas"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "skill-authoring", "scaffolding", "evals"]
+}
